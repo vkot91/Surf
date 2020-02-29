@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="993717b3-01e5-4c5a-91fd-d6550d04f300" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TA8VpIEoxDERcGEgjHNuaP6F78" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.buildTools.gulp.gulp_package_dir" value="$PROJECT_DIR$/node_modules/gulp" />
+    <property name="last_opened_file_path" value="D:/ReactProjects/todo-list" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="993717b3-01e5-4c5a-91fd-d6550d04f300" name="Default Changelist" comment="" />
+      <created>1572891565085</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572891565085</updated>
+      <workItem from="1572891567445" duration="13898000" />
+      <workItem from="1572956686667" duration="185000" />
+      <workItem from="1572957005221" duration="2382000" />
+      <workItem from="1573054019407" duration="164000" />
+      <workItem from="1573054228208" duration="11637000" />
+      <workItem from="1573131691437" duration="14681000" />
+      <workItem from="1573225347529" duration="7884000" />
+      <workItem from="1573310150506" duration="22000" />
+      <workItem from="1573507203696" duration="213000" />
+      <workItem from="1573507428266" duration="20000" />
+      <workItem from="1573507458818" duration="82000" />
+      <workItem from="1573507558772" duration="12000" />
+      <workItem from="1573507582070" duration="3521000" />
+      <workItem from="1573556024535" duration="110000" />
+      <workItem from="1573557649769" duration="86000" />
+      <workItem from="1573557759409" duration="95000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
